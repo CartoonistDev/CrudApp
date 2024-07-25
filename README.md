@@ -64,11 +64,9 @@ The API should now be running on `https://localhost:5001`.
 
 ## Running Tests
 
-To run the unit tests:
-   ```bash
-	      cd CrudTest
-	      dotnet test
-
+- To run the unit tests:
+  ```bash
+  dotnet test
 
 ## Contributing
 
